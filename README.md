@@ -1,6 +1,6 @@
 # Lab 8
 1. Create an empty project for an online laptop shop  
-2. Install json-server globally for using it as a fake backend  
+2. Install json-server for using it as a fake backend  
 3. Define the interface for the laptop with the following fields: id(guid), modelName, price  
 4. Create json-server config for laptops' fake backend  
 5. Create service and implement crud operations for laptops:  
